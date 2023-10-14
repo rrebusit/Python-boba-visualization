@@ -1,2 +1,2 @@
 # python-boba
-this is a work in progress
+This is a project for data visulization in Python using boba shop ratings in the Bay Area
